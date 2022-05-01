@@ -2,8 +2,8 @@
 
 **About me**:
 
-👨‍🎓 IT student
-📅 21 years old
-🖥️ Learning programmer
+- 👨‍🎓 IT student
+- 📅 21 years old
+- 🖥️ Learning programmer
 
 
